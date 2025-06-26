@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Environment
+.env
+.secrets
+secrets.toml
+
+# Streamlit
+.streamlit/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Project-specific (optional)
+*.pdf
+*.faiss
+*.index
