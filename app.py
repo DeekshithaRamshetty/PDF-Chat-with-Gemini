@@ -10,7 +10,7 @@ import os
 import tempfile
 
 # Configuration
-GOOGLE_API_KEY = "AIzaSyCnBkxXJsmpc5xV26u4chlcilfjZmp4mNI"  # Replace with your actual key
+GOOGLE_API_KEY = "#"  # Replace with your actual key
 CHAT_MODEL = "gemini-2.5-flash-preview-04-17"  # Gemini chat model
 EMBEDDING_MODEL = "models/embedding-001"
 
