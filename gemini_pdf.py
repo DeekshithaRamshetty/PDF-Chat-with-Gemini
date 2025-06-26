@@ -7,7 +7,7 @@ from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
 # 1. Configure Gemini with your direct API key
-GOOGLE_API_KEY = "AIzaSyCnBkxXJsmpc5xV26u4chlcilfjZmp4mNI"  # ⚠️ Replace with your actual key
+GOOGLE_API_KEY = "#"  # ⚠️ Replace with your actual key
 
 def load_and_index_pdf(pdf_path):
     """Load PDF, split text, and create searchable vector store"""
