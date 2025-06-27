@@ -1,6 +1,6 @@
 # PDF Chat with Gemini
 
-A Streamlit application for querying PDFs using Google's Gemini AI.
+A Streamlit application for querying PDFs , PPT, DOCX using Google's Gemini AI.
 
 ## Features
 - PDF text extraction and vectorization
