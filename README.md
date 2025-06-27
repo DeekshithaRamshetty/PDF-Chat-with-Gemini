@@ -4,6 +4,8 @@ A Streamlit application for querying PDFs using Google's Gemini AI.
 
 ## Features
 - PDF text extraction and vectorization
+- PPT Slide text extraction
+- DOCX Content extraction
 - Natural language questioning
 - Conversation history
 - Multi-page document support
