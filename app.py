@@ -11,7 +11,7 @@ import os
 import tempfile
 
 # Configuration
-GOOGLE_API_KEY = " # "
+GOOGLE_API_KEY = "AIzaSyCnBkxXJsmpc5xV26u4chlcilfjZmp4mNI"
 CHAT_MODEL = "gemini-2.5-flash-preview-04-17"  # Use the latest Gemini model
 EMBEDDING_MODEL = "models/embedding-001"
 
